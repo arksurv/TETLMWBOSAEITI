@@ -1,0 +1,184 @@
+Hello World for TETLMWBOSAEITI
+By arksurv
+Language by arksurv
+File name: HelloWorld.smiley
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+end of header comment
+INC TMP
+TMP is now 1
+ 
+ 
+ 
+ 
+SUB TMP TMP
+TMP is now 2
+ 
+ 
+SUB TMP TMP
+TMP is now 4
+SUB TMP TMP
+TMP is now 8
+ 
+ 
+ 
+ 
+SUB TMP TMP
+TMP is now 16
+SUB W TMP
+W is now 16
+ 
+ 
+SUB W TMP
+W is now 32, what we need it to be
+ 
+ 
+ 
+ 
+SUB l W
+l is now 32
+ 
+ 
+INC TMP2
+TMP2 is now 1
+SUB TMP2 TMP2
+TMP2 is now 2
+ 
+ 
+SUB TMP3 TMP2
+TMP3 is now 2
+SUB TMP2 TMP2
+TMP2 is now 4
+ 
+ 
+ 
+ 
+SUB TMP4 TMP2
+TMP4 is now 4
+SUB TMP2 TMP2
+TMP2 is now 8
+ 
+ 
+SUB l TMP2
+l is now 40
+ 
+ 
+ 
+ 
+DEC l
+l is now 39, what we need it to be
+SUB e l
+e is now 39
+ 
+ 
+SUB e e
+e is now 78
+ 
+ 
+SUB e TMP4
+e is now 82
+INC e
+e is now 83, what we need it to be
+ 
+ 
+SUB H e
+H is now 83
+SUB H TMP4
+H is now 87, what we need it to be
+SUB o l
+o is now 39
+ 
+ 
+SUB o o
+o is now 78
+ 
+ 
+ 
+ 
+ADD o TMP3
+o is now 76, what we need it to be
+ 
+ 
+ 
+ 
+SUB space W
+space is now 32
+ 
+ 
+ADD space TMP3
+space is now 30
+ADD space TMP4
+space is now 26, what we need it to be
+SUB exclamation space
+exclamation is now 26
+SUB exclamation W
+exclamation is now 58
+ADD exclamation TMP3
+exclamation is now 56
+DEC exclamation
+exclamation is now 55, what we need it to be
+ 
+ 
+SUB d exclamation
+d is now 55
+ 
+ 
+SUB d TMP2
+d is now 63
+SUB d TMP4
+d is now 67, what we need it to be
+ 
+ 
+ 
+ 
+SUB r e
+r is now 83
+SUB r TMP3
+r is now 85, what we need it to be
+INO H
+ 
+INO e
+ 
+ 
+ 
+ 
+ 
+INO l
+ 
+INO l
+ 
+ 
+ 
+INO o
+ 
+INO space
+ 
+ 
+ 
+INO W
+ 
+ 
+ 
+INO o
+ 
+INO r
+ 
+ 
+ 
+INO l
+ 
+INO d
+ 
+ 
+ 
+ 
+ 
+INO exclamation
+ 
