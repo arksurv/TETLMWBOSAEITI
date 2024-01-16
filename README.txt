@@ -12,6 +12,8 @@ ADDENDUM: This first WARNING is not necessarily an intentional feature. If you w
 
 WARNING: Do NOT put multiple spaces on a blank line. This is interpreted as a "" operation which, unfortunately, does not exist. Therefore, your program will fail.
 
+WARNING: Your program must have an extra line after the final statement.
+
 The next part of the language is how you will handle data. You will handle data in bytes. These bytes are stored as integers from 0-255. Bytes will be declared automatically when referenced in an operation and will start at 0. If a byte ever exceeds 255 or goes below 0, it will wrap around.
 
 There are currently 11 operations you can do in a line:
